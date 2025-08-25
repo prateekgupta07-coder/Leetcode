@@ -1,0 +1,49 @@
+#include <string.h>
+#include <stdbool.h>
+#define MAX_EMAILS 100
+#define MAX_LEN 110
+
+void normalize(const char *email, char *out) {
+    char local[MAX_LEN], domain[MAX_LEN];
+    const char *at = strchr(email, '@');
+
+    strncpy(local, email, at - email);
+    local[at - email] = '\0';
+    strcpy(domain, at + 1);
+
+    char *plus = strchr(local, '+');
+    if (plus) *plus = '\0';
+
+    char cleaned[MAX_LEN];
+    int idx = 0;
+    for (int i = 0; local[i]; i++) {
+        if (local[i] != '.') {
+            cleaned[idx++] = local[i];
+            
+        }
+    }
+    cleaned[idx] = '\0';
+
+    sprintf(out, "%s@%s", cleaned, domain);
+}
+
+bool exists(char arr[][MAX_LEN], int size, const char *s) {
+    for (int i = 0; i < size; i++) {
+        if (strcmp(arr[i], s) == 0) return true;
+    }
+    return false;
+}
+
+int numUniqueEmails(char **emails, int emailsSize) {
+    char unique[MAX_EMAILS][MAX_LEN];
+    int count = 0;
+    char norm[MAX_LEN];
+
+    for (int i = 0; i < emailsSize; i++) {
+        normalize(emails[i], norm);
+        if (!exists(unique, count, norm)) {
+            strcpy(unique[count++], norm);
+        }
+    }
+    return count;
+}
