@@ -1,80 +1,18 @@
-/**
- * Return an array of arrays of size *returnSize.
- * The sizes of the arrays are returned as *returnColumnSizes array.
- * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
- */
+class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        unordered_map<string, vector<string>> mp;
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-int cmpChar(const void* a, const void* b) {
-    return (*(char*)a - *(char*)b);
-}
-char* sortString(const char* str) {
-    int len = strlen(str);
-    char* sorted = (char*)malloc(len + 1);
-    strcpy(sorted, str);
-    qsort(sorted, len, sizeof(char), cmpChar);
-    return sorted;
-}
-
-typedef struct {
-    char* key;   
-    char** group;  
-    int size;       
-    int capacity;   
-} Group;
-
-char*** groupAnagrams(char** strs, int strsSize, int* returnSize, int** returnColumnSizes) {
-    if (strsSize == 0) {
-        *returnSize = 0;
-        *returnColumnSizes = NULL;
-        return NULL;
-    }
-
-    Group* groups = (Group*)malloc(strsSize * sizeof(Group));
-    int groupCount = 0;
-
-    for (int i = 0; i < strsSize; i++) {
-        char* sorted = sortString(strs[i]);
-
-        int idx = -1;
-        for (int g = 0; g < groupCount; g++) {
-            if (strcmp(groups[g].key, sorted) == 0) {
-                idx = g;
-                break;
-            }
+        for (auto& s : strs) {
+            string key = s;
+            sort(key.begin(), key.end());  
+            mp[key].push_back(s);
         }
 
-        if (idx == -1) {
-            groups[groupCount].key = sorted;
-            groups[groupCount].capacity = strsSize;
-            groups[groupCount].group = (char**)malloc(strsSize * sizeof(char*));
-            groups[groupCount].group[0] = strs[i];
-            groups[groupCount].size = 1;
-            groupCount++;
-        } else {
-            groups[idx].group[groups[idx].size++] = strs[i];
-            free(sorted);  
+        vector<vector<string>> result;
+        for (auto& entry : mp) {
+            result.push_back(entry.second);
         }
+        return result;
     }
-
-    char*** result = (char***)malloc(groupCount * sizeof(char**));
-    *returnColumnSizes = (int*)malloc(groupCount * sizeof(int));
-
-    for (int i = 0; i < groupCount; i++) {
-        result[i] = (char**)malloc(groups[i].size * sizeof(char*));
-        for (int j = 0; j < groups[i].size; j++) {
-            result[i][j] = groups[i].group[j];
-        }
-        (*returnColumnSizes)[i] = groups[i].size;
-
-        free(groups[i].group);
-        free(groups[i].key);
-    }
-
-    *returnSize = groupCount;
-    free(groups);
-    return result;
-}
+};
