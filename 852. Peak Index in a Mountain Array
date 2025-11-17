@@ -1,12 +1,12 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int left = 0, right = arr.size() - 1;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] < arr[mid + 1]) left = mid + 1;
-            else right = mid;
+        int ulta = 0, seedha = arr.size() - 1;
+        while (ulta < seedha) {
+            int mid = ulta + (seedha - ulta) / 2;
+            if (arr[mid] < arr[mid + 1]) ulta = mid + 1;
+            else seedha = mid;
         }
-        return left;
+        return ulta;
     }
 };
