@@ -18,7 +18,7 @@ class Solution {
         }
 
         if (a > x / 2)
-            a = x / 2;
+            a = x/2;
 
         return a;
     }
