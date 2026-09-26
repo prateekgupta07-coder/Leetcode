@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0575-distribute-candies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Prefix Sum
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
