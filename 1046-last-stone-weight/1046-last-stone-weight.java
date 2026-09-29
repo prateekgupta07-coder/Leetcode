@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public int lastStoneWeight(int[] stones) {
         int n = stones.length;
@@ -18,6 +16,10 @@ class Solution {
                 n--;
             }
         }
-        return n == 0 ? 0 : stones[0];
+
+        if (n == 0)
+            return 0;
+
+        return stones[0];
     }
 }
