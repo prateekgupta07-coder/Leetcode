@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1046-last-stone-weight) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
