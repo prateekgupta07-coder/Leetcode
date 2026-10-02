@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Euclidean Algorithm
 |  |
@@ -102,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
