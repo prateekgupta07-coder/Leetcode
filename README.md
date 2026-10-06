@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0119-pascals-triangle-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0136-single-number) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
