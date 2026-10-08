@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
