@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -142,8 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
