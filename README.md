@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
