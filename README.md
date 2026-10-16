@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1046-last-stone-weight) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Knapsack Problem
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
