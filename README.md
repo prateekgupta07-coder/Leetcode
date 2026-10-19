@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateekgupta07-coder/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
