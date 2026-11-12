@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/prateekgupta07-coder/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
